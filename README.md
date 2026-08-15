@@ -104,6 +104,7 @@ Machine Learning project using K-Means clustering to identify customer groups fo
 
 - LinkedIn: https://www.linkedin.com/in/piyush-pratap-singh-22995029a/
 - GitHub: https://github.com/1616piyu
+- Portfolio: https://ai-portfolio-ncll.vercel.app/
 
 ---
 
