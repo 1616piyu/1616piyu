@@ -63,3 +63,35 @@ class PiyushPratapSingh:
         "AWS",
         "Kubernetes"
     ]
+
+<div align="center">
+AI Systems	Backend Systems	Data & ML
+RAG	FastAPI	Machine Learning
+LLM Applications	REST APIs	Deep Learning
+AI Agents	PostgreSQL	Computer Vision
+Prompt Engineering	Authentication	NLP
+Vector Search	Docker	Data Analytics
+</div>
+
+03 — TECH ARSENAL
+Languages
+<p> <img src="https://skillicons.dev/icons?i=python,sql,javascript"/> </p>
+AI / Machine Learning
+<p> <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn"/> </p>
+
+Scikit-learn · PyTorch · TensorFlow · CNN · RNN · LSTM · Transformers
+
+Generative AI
+<p> <img src="https://skillicons.dev/icons?i=python"/> </p>
+
+LangChain · RAG · FAISS · ChromaDB · BERT · Claude API · Mistral AI · LLaMA 3 · Ollama
+
+Backend & Databases
+<p> <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mysql,sqlite"/> </p>
+
+REST APIs · SQLAlchemy · Alembic · JWT · Supabase
+
+DevOps & Tools
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,aws,vercel"/> </p>
+
+Docker · Git · GitHub · Render · Vercel · AWS
