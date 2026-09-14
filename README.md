@@ -20,6 +20,8 @@
 
 </div>
 
+---
+
 ## `01` — ABOUT ME
 
 ```python
@@ -53,53 +55,59 @@ class PiyushPratapSingh:
     ]
 
     mindset = "Build → Deploy → Evaluate → Improve"
+```
 
+---
 
 ## `02` — TECH ARSENAL
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,javascript" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,js" height="48"/>
 </p>
+
+**Python · SQL · JavaScript**
 
 ### Machine Learning & Deep Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="48"/>
 </p>
 
-`Scikit-learn` · `PyTorch` · `TensorFlow` · `CNN` · `RNN` · `LSTM` · `Transformers`
+**Scikit-learn · PyTorch · TensorFlow · CNN · RNN · LSTM · Transformers**
 
 ### Generative AI & LLM
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="48"/>
 </p>
 
-`LangChain` · `RAG` · `FAISS` · `ChromaDB` · `BERT` · `Claude API` · `Mistral AI` · `LLaMA 3` · `Ollama` · `Prompt Engineering`
+**LangChain · RAG · FAISS · ChromaDB · BERT · Claude API · Mistral AI · LLaMA 3 · Ollama · Prompt Engineering**
 
 ### Backend & APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" height="48"/>
 </p>
 
-`FastAPI` · `Flask` · `REST APIs` · `SQLAlchemy` · `Alembic` · `JWT`
+**FastAPI · Flask · REST APIs · SQLAlchemy · Alembic · JWT**
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="48"/>
 </p>
 
-`PostgreSQL` · `MySQL` · `SQLite` · `Supabase`
+**PostgreSQL · MySQL · SQLite · Supabase**
 
-### DevOps & Development Tools
+### DevOps & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,aws,vercel" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,aws,vercel" height="48"/>
 </p>
 
-`Docker` · `Git` · `GitHub` · `VS Code` · `AWS` · `Vercel` · `Render`
+**Docker · Git · GitHub · VS Code · AWS · Vercel · Render**
+
+---
 
