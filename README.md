@@ -21,3 +21,36 @@
 </div>
 
 ---
+## `01` — ABOUT ME
+
+```python
+class PiyushPratapSingh:
+
+    role = "AI Engineer"
+
+    education = {
+        "degree": "B.Tech — Artificial Intelligence & Machine Learning",
+        "college": "Acharya Institute of Technology",
+        "graduation": 2026,
+        "cgpa": "8.0 / 10"
+    }
+
+    focus = [
+        "Generative AI",
+        "RAG & LLM Applications",
+        "Agentic AI",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "NLP"
+    ]
+
+    engineering = [
+        "Python",
+        "FastAPI",
+        "REST APIs",
+        "PostgreSQL",
+        "Docker"
+    ]
+
+    mindset = "Build → Deploy → Evaluate → Improve"
