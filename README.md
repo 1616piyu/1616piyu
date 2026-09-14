@@ -20,10 +20,9 @@
 
 </div>
 
----
+
 ## `01` — ABOUT ME
 
-```python
 class PiyushPratapSingh:
 
     role = "AI Engineer"
@@ -55,7 +54,6 @@ class PiyushPratapSingh:
 
     mindset = "Build → Deploy → Evaluate → Improve"
 
----
 
 ## `02` — TECH ARSENAL
 
@@ -105,4 +103,3 @@ class PiyushPratapSingh:
 
 `Docker` · `Git` · `GitHub` · `VS Code` · `AWS` · `Vercel` · `Render`
 
----
