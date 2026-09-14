@@ -144,4 +144,34 @@ class PiyushPratapSingh:
 
 ---
 
+## `04` — EDUCATION
+
+<div align="center">
+
+### 🎓 Acharya Institute of Technology
+
+**B.Tech — Artificial Intelligence & Machine Learning**
+
+`2022 — 2026`
+
+<br>
+
+| Academic Profile | Details |
+|:---|:---|
+| **Degree** | B.Tech — Artificial Intelligence & Machine Learning |
+| **CGPA** | **8.0 / 10** |
+| **Graduation** | **2026** |
+| **Institute** | Acharya Institute of Technology |
+
+</div>
+
+### Core Coursework
+
+`Machine Learning` · `Deep Learning` · `Artificial Intelligence` · `Software Engineering`
+
+`Statistics` · `Data Analysis` · `Database Systems`
+
+`Computer Vision` · `Natural Language Processing`
+
+---
 
