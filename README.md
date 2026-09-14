@@ -1,111 +1,65 @@
-# Hi there 👋, I'm Piyush Pratap Singh
+<div align="center">
 
-## AI & Machine Learning Engineer
+<img src="./assets/piyush-3d.png" width="220"/>
 
-I'm passionate about building intelligent AI systems that solve real-world problems using Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI.
+# PIYUSH PRATAP SINGH
 
----
+### `AI ENGINEER` · `ML ENGINEER` · `GENAI BUILDER`
 
-## 🚀 Currently Working On
+<p>
+  <a href="https://www.linkedin.com/in/piyush-pratap-singh-22995029a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://ai-portfolio-ncll.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/1616piyu">
+    <img src="https://img.shields.io/badge/GitHub-1616piyu-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Bv2lEF7hPC/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
-- 🤖 AI Career Agent
-- 🧠 Generative AI & LLM Applications
-- 📄 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI Backend Development
-- 🐳 Docker & Production AI Deployment
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+Production-Ready+AI+Systems;Generative+AI+%7C+RAG+%7C+Multi-Agent+Systems;Python+%7C+FastAPI+%7C+PostgreSQL+%7C+Docker;Computer+Vision+%7C+NLP+%7C+Machine+Learning" />
 
----
-
-## 💻 Tech Stack
-
-### Languages
-- Python
-- SQL
-
-### Machine Learning
-- Scikit-learn
-- TensorFlow
-- PyTorch
-
-### Deep Learning
-- CNN
-- RNN
-- LSTM
-- Transformers
-
-### Generative AI
-- LangChain
-- FAISS
-- ChromaDB
-- Ollama
-- OpenAI API
-- Prompt Engineering
-
-### Backend
-- FastAPI
-- REST API
-
-### Databases
-- MySQL
-- SQLite
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Docker
-- Jupyter Notebook
+</div>
 
 ---
 
-## 📌 Featured Projects
+## `01` — ABOUT ME
 
-### 🚀 AI Career Agent
-An intelligent AI platform that analyzes job descriptions, optimizes resumes for ATS, identifies skill gaps, and automates job application workflows.
+```python
+class PiyushPratapSingh:
 
----
+    role = "AI Engineer"
+    education = "B.Tech — Artificial Intelligence & Machine Learning"
+    university = "Acharya Institute of Technology"
+    graduation = 2026
+    cgpa = "8.0 / 10"
 
-### 🏏 Real-Time Cricket Commentary System
-A deep learning project that detects cricket events from video and generates natural language commentary using Computer Vision and LLMs.
+    interests = [
+        "Generative AI",
+        "RAG Systems",
+        "Agentic AI",
+        "Machine Learning",
+        "Computer Vision",
+        "NLP",
+        "Backend Engineering"
+    ]
 
----
+    engineering = [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker",
+        "REST APIs"
+    ]
 
-### 📰 Multi-Modal Fake News Detection
-A deep learning model that combines image and text analysis to detect fake news.
-
----
-
-### 🛍 Mall Customer Segmentation
-Machine Learning project using K-Means clustering to identify customer groups for targeted marketing.
-
----
-
-## 📈 Currently Learning
-
-- Agentic AI
-- Multi-Agent Systems
-- Advanced RAG
-- MLOps
-- Kubernetes
-- AWS
-
----
-
-## 🎯 2026 Goals
-
-- Build production-ready AI applications
-- Contribute to Open Source
-- Master MLOps
-- Become an AI Engineer
-
----
-
-## 📫 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/piyush-pratap-singh-22995029a/
-- GitHub: https://github.com/1616piyu
-- Portfolio: https://ai-portfolio-ncll.vercel.app/
-
----
-
-⭐ Thanks for visiting my profile!
+    currently_learning = [
+        "Multi-Agent Systems",
+        "Advanced RAG",
+        "MLOps",
+        "AWS",
+        "Kubernetes"
+    ]
