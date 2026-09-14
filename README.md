@@ -322,3 +322,48 @@ A multi-modal classification system combining textual and visual representations
 
 ---
 
+## `06` — CERTIFICATIONS
+
+<div align="center">
+
+### 🧠 Machine Learning Specialization
+
+**Coursera · Andrew Ng**
+
+<a href="https://www.linkedin.com/learning/certificates/3b52f3d0c64b28234b733ffac93ce974f9012cc95b10eb4565f5ff3bfbb41833?u=165237820">
+<img src="https://img.shields.io/badge/✓%20Certified-View%20Credential-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br><br>
+
+### 📊 Microsoft Power BI Data Analyst
+
+**Microsoft / Infosys Springboard**
+
+<a href="https://infyspringboard.onwingspan.com/public-assets/infosysheadstart/cert/lex_auth_0138420035052011529489_shared/1-a57f8be3-d2d6-48e4-8ce3-f017419b5c62.pdf">
+<img src="https://img.shields.io/badge/✓%20Certified-View%20Certificate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+</a>
+
+<br><br>
+
+### 🤖 BCG GenAI Job Simulation
+
+**Forage**
+
+<a href="https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_Mif8DYnd6TYfhY6W2_1778952680290_completion_certificate.pdf">
+<img src="https://img.shields.io/badge/✓%20Certified-View%20Certificate-6C2BD9?style=for-the-badge">
+</a>
+
+<br><br>
+
+### 🐍 Python Programming & Data Structures
+
+**Coursera**
+
+<a href="https://www.coursera.org/account/accomplishments/records/FRD36DUQGTS6">
+<img src="https://img.shields.io/badge/✓%20Certified-View%20Credential-0056D2?style=for-the-badge&logo=coursera&logoColor=white">
+</a>
+
+</div>
+
+---
