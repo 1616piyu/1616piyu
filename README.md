@@ -20,9 +20,9 @@
 
 </div>
 
-
 ## `01` — ABOUT ME
-python
+
+```python
 class PiyushPratapSingh:
 
     role = "AI Engineer"
