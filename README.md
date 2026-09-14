@@ -111,3 +111,37 @@ class PiyushPratapSingh:
 
 ---
 
+## `03` — EXPERIENCE
+
+### AI/ML Engineering Intern
+**Swizosoft (OPC) Private Limited** · `Feb 2026 — May 2026`
+
+> Built and deployed a production-oriented **RAG-based document Q&A system**.
+
+- Developed a complete **Retrieval-Augmented Generation (RAG)** pipeline for document question answering.
+- Implemented **BERT embeddings + FAISS** for semantic retrieval.
+- Built **hybrid exact, keyword, and semantic reranking** for improved retrieval quality.
+- Developed a **Flask REST API** with authentication and SQLite-backed chat history.
+- Created **500+ retrieval test cases** to evaluate and debug retrieval performance.
+- Deployed and monitored the application using **Render**.
+
+**Stack:** `Python` `BERT` `FAISS` `RAG` `Flask` `SQLite` `REST API` `Render`
+
+---
+
+### Data Analytics Intern
+**AICTE × Shell India — Edunet Foundation** · `Jul 2025 — Aug 2025`
+
+> Worked on **EV registration data analysis, machine learning forecasting, and reporting**.
+
+- Analyzed EV registration datasets using **Python, Pandas, NumPy, and SQL**.
+- Performed data cleaning, preprocessing, and transformation.
+- Built and evaluated machine learning forecasting models.
+- Used **MAE, RMSE, and R²** for model evaluation.
+- Created data-driven reporting using **Power BI / Streamlit**.
+
+**Stack:** `Python` `Pandas` `NumPy` `SQL` `Machine Learning` `Power BI` `Streamlit`
+
+---
+
+
