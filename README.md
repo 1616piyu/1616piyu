@@ -390,49 +390,76 @@ A multi-modal classification system combining textual and visual representations
 
 ---
 
-## `08` — AI ENGINEERING FOCUS
+## `8` — WHAT I BUILD
 
 <div align="center">
 
-| 🧠 INTELLIGENCE | ⚡ ENGINEERING | 🚀 DEPLOYMENT |
-|:---:|:---:|:---:|
-| Generative AI | Python | Docker |
-| RAG Systems | FastAPI | AWS |
-| LLM Applications | REST APIs | MLOps |
-| Agentic AI | PostgreSQL | Kubernetes |
-| Computer Vision | Authentication | Production AI |
-| NLP | Data Pipelines | Cloud Deployment |
+### 💻 SOFTWARE ENGINEERING
+
+`Python` · `FastAPI` · `REST APIs` · `Flask` · `SQL`
+
+`PostgreSQL` · `MySQL` · `SQLite` · `Authentication`
+
+`Git` · `GitHub` · `Docker` · `Backend Systems`
+
+<br>
+
+### 📊 DATA & ANALYTICS
+
+`Python` · `Pandas` · `NumPy` · `SQL`
+
+`Data Cleaning` · `EDA` · `Statistics` · `Data Visualization`
+
+`Power BI` · `Machine Learning` · `Customer Segmentation`
+
+<br>
+
+### 🤖 AI / ML / GENERATIVE AI
+
+`Machine Learning` · `Deep Learning` · `Computer Vision`
+
+`NLP` · `LLMs` · `RAG` · `AI Agents`
+
+`LangChain` · `FAISS` · `ChromaDB` · `Transformers`
+
+`Prompt Engineering` · `Model Evaluation` · `AI Applications`
 
 </div>
 
 <br>
 
 ```text
-        DATA
-          ↓
-   MACHINE LEARNING
-          ↓
-   DEEP LEARNING
-          ↓
-    LLM / GENAI
-          ↓
-      RAG / AI
-       AGENTS
-          ↓
-      FASTAPI
-          ↓
-     DATABASE
-          ↓
-       DOCKER
-          ↓
-       CLOUD
-          ↓
-     PRODUCTION
+                         ENGINEERING
+                              │
+              ┌───────────────┼───────────────┐
+              ↓               ↓               ↓
+          SOFTWARE          DATA             AI
+              │               │               │
+              ↓               ↓               ↓
+          BACKEND          ANALYTICS       ML / DL
+              │               │               │
+          FastAPI            SQL             NLP
+          REST APIs          Python          CV
+          Databases          Pandas          LLMs
+              │               │               │
+              └───────────────┼───────────────┘
+                              ↓
+                       PRODUCTION SYSTEMS
+                              │
+                    Docker · APIs · Cloud
+                              │
+                              ↓
+                    BUILD → DEPLOY → SCALE
 ```
 
-> **My approach:** Build intelligent systems → expose them through reliable APIs → containerize → deploy → evaluate → improve.
+<div align="center">
+
+**Software Engineering × Data × Artificial Intelligence**
+
+</div>
 
 ---
+     
 
 ## `09` — CODING & AI PROFILES
 
