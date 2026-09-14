@@ -54,3 +54,55 @@ class PiyushPratapSingh:
     ]
 
     mindset = "Build → Deploy → Evaluate → Improve"
+
+---
+
+## `02` — TECH ARSENAL
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,javascript" />
+</p>
+
+### Machine Learning & Deep Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
+
+`Scikit-learn` · `PyTorch` · `TensorFlow` · `CNN` · `RNN` · `LSTM` · `Transformers`
+
+### Generative AI & LLM
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`LangChain` · `RAG` · `FAISS` · `ChromaDB` · `BERT` · `Claude API` · `Mistral AI` · `LLaMA 3` · `Ollama` · `Prompt Engineering`
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+`FastAPI` · `Flask` · `REST APIs` · `SQLAlchemy` · `Alembic` · `JWT`
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+</p>
+
+`PostgreSQL` · `MySQL` · `SQLite` · `Supabase`
+
+### DevOps & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,aws,vercel" />
+</p>
+
+`Docker` · `Git` · `GitHub` · `VS Code` · `AWS` · `Vercel` · `Render`
+
+---
