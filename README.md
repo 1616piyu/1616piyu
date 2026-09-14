@@ -175,3 +175,150 @@ class PiyushPratapSingh:
 
 ---
 
+## `05` — FEATURED PROJECTS
+
+### 🤖 AI Career Agent
+
+**AI-powered career intelligence & job-application platform**
+
+Built an end-to-end AI platform for analyzing job descriptions, candidate profiles, resume optimization, skill-gap identification, and application workflows.
+
+**Core Architecture**
+
+```text
+Job Description
+      ↓
+   AI Analysis
+      ↓
+Candidate Profile
+      ↓
+Resume Optimization
+      ↓
+Skill Gap Detection
+      ↓
+Job Matching
+      ↓
+Application Workflow
+```
+
+**Tech:** `Python` `FastAPI` `PostgreSQL` `Supabase` `LangChain` `Claude` `Mistral` `JWT` `Docker`
+
+<p>
+<a href="https://career-agent-gilt.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-0A66C2?style=for-the-badge">
+</a>
+<a href="https://github.com/1616piyu">
+<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+---
+
+### 🚰 AquaLink
+
+**Water Delivery Marketplace**
+
+A backend-driven platform connecting customers with water suppliers through authentication, supplier management, ordering workflows, and PostgreSQL-backed APIs.
+
+**Core Architecture**
+
+```text
+Customer
+   ↓
+Authentication
+   ↓
+Supplier Discovery
+   ↓
+Order Management
+   ↓
+FastAPI
+   ↓
+PostgreSQL
+   ↓
+Supplier
+```
+
+**Tech:** `Python` `FastAPI` `PostgreSQL` `REST APIs`
+
+<p>
+<a href="https://aqualink-chi.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-0A66C2?style=for-the-badge">
+</a>
+</p>
+
+---
+
+### 🏏 Real-Time AI Cricket Commentary
+
+**Computer Vision → Event Detection → LLM Commentary**
+
+A multi-stage AI pipeline that processes cricket video, detects and tracks objects, extracts information through OCR, and generates natural-language commentary.
+
+```text
+Video
+  ↓
+YOLOv8
+  ↓
+Object Detection
+  ↓
+ByteTrack / BoT-SORT
+  ↓
+EasyOCR
+  ↓
+Event Extraction
+  ↓
+LLaMA 3
+  ↓
+AI Commentary
+```
+
+**Tech:** `Python` `OpenCV` `YOLOv8` `ByteTrack` `BoT-SORT` `EasyOCR` `LLaMA 3`
+
+<p>
+<a href="https://github.com/1616piyu/Cricket-automated-commentary-R-2-1-D-Model">
+<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+---
+
+### 📰 Multi-Modal Fake News Detection
+
+**Deep Learning + NLP + Computer Vision**
+
+A multi-modal classification system combining textual and visual representations to identify potentially misleading or fake news.
+
+```text
+          INPUT
+         /     \
+      TEXT     IMAGE
+       ↓         ↓
+     BERT       CNN
+       ↓         ↓
+ Text Features  Image Features
+       \         /
+        \       /
+         FEATURE
+          FUSION
+             ↓
+       CLASSIFICATION
+```
+
+**Tech:** `Python` `PyTorch` `BERT` `CNN` `NLP` `Computer Vision`
+
+<p>
+<a href="https://github.com/1616piyu/multi_modal-fake-news-detection">
+<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+---
+
+<div align="center">
+
+**More projects → [GitHub](https://github.com/1616piyu?tab=repositories)**
+
+</div>
+
+---
+
