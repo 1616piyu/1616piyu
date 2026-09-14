@@ -367,3 +367,41 @@ A multi-modal classification system combining textual and visual representations
 </div>
 
 ---
+
+## `07` — CURRENTLY LEARNING
+
+<div align="center">
+
+### 🤖 Agentic AI
+`AI Agents` · `Tool Calling` · `Agent Workflows` · `Multi-Agent Systems`
+
+### 🧠 Advanced RAG
+`Hybrid Search` · `Reranking` · `Vector Databases` · `Context Engineering`
+
+### ⚙️ MLOps & Production AI
+`Model Deployment` · `Docker` · `CI/CD` · `Monitoring` · `Evaluation`
+
+### ☁️ Cloud & Infrastructure
+`AWS` · `Kubernetes` · `Cloud Deployment`
+
+</div>
+
+> **Current focus:** Building reliable, scalable and production-ready AI systems.
+
+---
+
+## `08` — GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=1616piyu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1616piyu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="38%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1616piyu&theme=github-dark-blue&hide_border=true" width="60%"/>
+
+</div>
+
+---
