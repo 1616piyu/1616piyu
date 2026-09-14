@@ -394,13 +394,13 @@ A multi-modal classification system combining textual and visual representations
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1616piyu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=1616piyu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1616piyu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1616piyu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1616piyu&theme=github-dark-blue&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1616piyu&theme=github-dark-blue&hide_border=true" width="60%" />
 
 </div>
 
