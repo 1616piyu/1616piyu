@@ -433,3 +433,35 @@ A multi-modal classification system combining textual and visual representations
 > **My approach:** Build intelligent systems → expose them through reliable APIs → containerize → deploy → evaluate → improve.
 
 ---
+
+## `09` — CODING & AI PROFILES
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Bv2lEF7hPC/">
+<img src="https://img.shields.io/badge/LeetCode-Solve%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+<a href="https://github.com/1616piyu?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://ai-portfolio-ncll.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20AI%20Work-111827?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+<a href="https://www.credly.com/earner/dashboard/home">
+<img src="https://img.shields.io/badge/Credly-Verified%20Credentials-FF6B35?style=for-the-badge&logo=credly&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**💡 I solve problems, build AI systems, and continuously turn ideas into deployable applications.**
+
+</div>
+
+---
