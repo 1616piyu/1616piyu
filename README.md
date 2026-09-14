@@ -465,3 +465,33 @@ A multi-modal classification system combining textual and visual representations
 </div>
 
 ---
+## `10` — OPEN TO OPPORTUNITIES
+
+<div align="center">
+
+### 🚀 AI Engineer · ML Engineer · GenAI Engineer · Data Scientist/Data Analyst · Software Engineer
+
+I'm actively looking for opportunities where I can build, deploy, and improve  
+**AI/ML systems, Generative AI applications, RAG pipelines, and intelligent backend services.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/piyush-pratap-singh-22995029a/">
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:piyushpratapsingh739@gmail.com">
+<img src="https://img.shields.io/badge/Hire%20Me-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `BUILD → DEPLOY → EVALUATE → IMPROVE`
+
+**Thanks for visiting my profile. ⭐**
+
+</div>
