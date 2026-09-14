@@ -390,18 +390,46 @@ A multi-modal classification system combining textual and visual representations
 
 ---
 
-## `08` — GITHUB ANALYTICS
+## `08` — AI ENGINEERING FOCUS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1616piyu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1616piyu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1616piyu&theme=github-dark-blue&hide_border=true" width="60%" />
+| 🧠 INTELLIGENCE | ⚡ ENGINEERING | 🚀 DEPLOYMENT |
+|:---:|:---:|:---:|
+| Generative AI | Python | Docker |
+| RAG Systems | FastAPI | AWS |
+| LLM Applications | REST APIs | MLOps |
+| Agentic AI | PostgreSQL | Kubernetes |
+| Computer Vision | Authentication | Production AI |
+| NLP | Data Pipelines | Cloud Deployment |
 
 </div>
+
+<br>
+
+```text
+        DATA
+          ↓
+   MACHINE LEARNING
+          ↓
+   DEEP LEARNING
+          ↓
+    LLM / GENAI
+          ↓
+      RAG / AI
+       AGENTS
+          ↓
+      FASTAPI
+          ↓
+     DATABASE
+          ↓
+       DOCKER
+          ↓
+       CLOUD
+          ↓
+     PRODUCTION
+```
+
+> **My approach:** Build intelligent systems → expose them through reliable APIs → containerize → deploy → evaluate → improve.
 
 ---
